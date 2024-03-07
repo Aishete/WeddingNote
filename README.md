@@ -19,7 +19,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/https://github.com/Aishete/Weddingnote.git
+   git clone https://github.com/Aishete/WeddingNote.git
    cd wedding-note
 
 2, Set up the database in SSMS by restore backup file of MSQL name (weddingnotedatabaseMSQL.bek)

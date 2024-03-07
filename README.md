@@ -19,14 +19,16 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/https://github.com/Aishete/wedding-note.git
+   git clone https://github.com/https://github.com/Aishete/Weddingnote.git
    cd wedding-note
 
-2, Open the project in your preferred C# IDE.
+2, Set up the database in SSMS by restore backup file of MSQL name (weddingnotedatabaseMSQL.bek)
 
-3, Build and run the project.
+4, Open the project in your preferred C# IDE.
+go to Form1.cs line 21 you may change the Data source, user id and password 
+![image](https://github.com/Aishete/WeddingNote/assets/87738370/bcbbdac0-a734-4644-888a-3a2ecc1ae0e9)
 
-4, Set up the database
+4, Build and run the project.
 
 ## Acknowledgments
 Special thanks to Try BunHeng, Onh Paravath, and Panha Ol for their contributions to the development of Wedding Note assignment project by our C# teacher. there still more function to add but we are close to the deadline that our teacher is set for us, we many experiment or building this project in other program languages and use supabase as database

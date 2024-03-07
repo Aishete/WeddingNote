@@ -37,17 +37,16 @@
 - Navigate to Form1.cs, and on line 21, you can customize the Data Source, User ID, and Password settings as needed.
 ![image](https://github.com/Aishete/WeddingNote/assets/87738370/bcbbdac0-a734-4644-888a-3a2ecc1ae0e9)
 
-4), **Build and Run**:
+4. **Build and Run** :
 
 - Build and run the project in your C# IDE or Visual Studio.
-- if you can't build the project followed the step
-- Open the file explorer :
-1 Navigate to project/solution directory
-2 Search for *.resx. --> You will get list of resx files
-3 Right click the resx file, open the properties and check the option 'Unblock'
-4 Repeat #3 for each resx file.
-5 Reload the project.
-
+- If you encounter build issues, follow these steps:
+   1. Open the file explorer.
+   2. Navigate to the project/solution directory.
+   3. Search for *.resx. You will get a list of resx files.
+   4. Right-click the resx file, open the properties, and check the option 'Unblock.'
+   5. Repeat step #4 for each resx file.
+   6. Reload the project.
 ## Acknowledgments
 Special thanks to Try BunHeng, Onh Paravath, and Panha Ol for their contributions to the development of Wedding Note assignment project by our C# teacher. there still more function to add but we are close to the deadline that our teacher is set for us, we many experiment or building this project in other program languages and use supabase as database
 

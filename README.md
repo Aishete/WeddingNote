@@ -16,7 +16,7 @@
 
 ## Installation & Usages
 
-1 **Clone the Repository**:
+1, **Clone the Repository**:
 
  Open your terminal or command prompt.
  Run the following commands:

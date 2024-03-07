@@ -11,7 +11,7 @@
 ## Table of Contents
 
 - [Installation & usage](#installation)
-- [Contributing](#contributing)
+
 - [Acknowledgments](#acknowledgments)
 
 ## Installation & Usages
